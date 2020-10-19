@@ -24,4 +24,4 @@
 CONFIG_RTC_DRV_NXP=y  NXP设置为y
 ```
 
-重新编译源码，即可完成RTC方式的切换。
+重新编译源码，即可完成RTC的切换。
